@@ -1,0 +1,23 @@
+# LangChain核心依赖
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Nebula Graph依赖
+nebula3-python>=3.5.0
+
+# 数据处理依赖
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Python类型提示
+typing-extensions>=4.5.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 可选：OpenAI API（如需使用OpenAI模型）
+# openai>=1.0.0
+
+# 可选：其他LLM提供商
+# anthropic>=0.5.0
+# cohere>=4.0.0
